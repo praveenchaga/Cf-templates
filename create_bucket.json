@@ -1,9 +1,0 @@
-{
-    "Resources" : 
-    {
-        "praveenkumarreddychaga" :
-        {
-            "Type" : "AWS::S3::Bucket"
-        }
-    }
-}
